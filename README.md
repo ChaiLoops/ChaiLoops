@@ -3,7 +3,7 @@
 - 🌱 Mastering Data Science, Python, SQL, Power BI, Tableau, Web scraping, and Machine learning.
 - 🔭 Focused on building real-world predictive data models.
 - 💬 Love discussing data analysis, visualization tools, and automation in Python.
-- 📫 Reach me at dtungenwar9850@gmail.com and linkedin.com/in/divya-tungenwar. 
+- 📫 Reach me at [Email](mailto:dtungenwar9850@gmail.com) and [LinkedIn](https://www.linkedin.com/in/your-profile). 
 - 🧠 Fun fact: I turn data into stories that inspire data-driven decisions 🚀.
 
 <!---
