@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divya Tungenwar
 - 👀 I’m interested in working as a Data Scientist
-- 🌱 Mastering Data Science, Python, SQL, Power BI, Tableau, Web scraping, and Machine learning.
+- 🌱 Mastering Data Science, Python, SQL, Power BI, Tableau, Web scraping, Machine learning, and GenerativeAI.
 - 🔭 Focused on building real-world predictive data models.
 - 💬 Love discussing data analysis, visualization tools, and automation in Python.
 - 📫 Reach me at [Email](mailto:dtungenwar9850@gmail.com) and [LinkedIn](https://www.linkedin.com/in/your-profile). 
